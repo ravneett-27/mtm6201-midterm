@@ -1,0 +1,9 @@
+* {
+    background-color: #f3f0e9;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
