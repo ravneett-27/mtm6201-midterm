@@ -2,6 +2,12 @@
     background-color: #f3f0e9;
 }
 
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
