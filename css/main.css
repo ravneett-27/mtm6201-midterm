@@ -209,7 +209,7 @@ header {
 .menu-locations {
     position: relative;
     min-height: 100vh;
-    background-image: url(/coffee-shop.jpeg);
+    background-image: url(/images/coffee-shop.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
